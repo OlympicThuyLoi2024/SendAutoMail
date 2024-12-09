@@ -1,0 +1,4 @@
+Changelogs
+v1.0
+- Gửi email tự động cho mọi người khi có 1 người bị nhiễm bệnh trong khu vực.
+- Gửi email tự động cho người dân khi tình trạng sức khỏe được cập nhật.
