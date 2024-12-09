@@ -30,7 +30,7 @@ cd SendAutoMail-1.0
 ```
 #### Bước 3: Import vô N8N 
 1. Tạo 1 workflow trong N8N
-2. Import file My-workflow.json, file này lấy được ở trong thư mục SendAutoMail-1.0
+2. Import file My-workflow.json vô workflow trên, file này lấy được ở trong thư mục SendAutoMail-1.0
 
 #### Bước 4: Chỉnh sửa các tài khoản dịch vụ
 Ở trong node Send Email sẽ có phần **Credential to connect with**, có thể chỉnh sửa tài khoản SMTP của mình ở đây. 
