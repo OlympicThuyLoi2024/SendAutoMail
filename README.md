@@ -14,7 +14,7 @@ Xây dựng gửi email tự động cho hệ thống SafeZone khi có người 
 - **Tài khoản SMTP**: Là tài khoản gửi email đến các tài khoản khác  
 - [**N8N**](https://n8n.io/): Phiên bản >=1.66.0
 
-### 2. Cài đặt dữ án
+### 2. Cài đặt dự án
 #### Bước 1: Tải mã nguồn từ bản phát hành
 1. Truy cập trang phát hành chính thức tại: [Releases](https://github.com/OlympicThuyLoi2024/SendAutoMail/releases).
 2. Chọn phiên bản phù hợp với nhu cầu của bạn.
