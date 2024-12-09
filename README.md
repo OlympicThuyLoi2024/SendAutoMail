@@ -12,7 +12,7 @@ Xây dựng gửi email tự động cho hệ thống SafeZone khi có người 
 ## Hướng dẫn cài đặt
 ### 1. Yêu cầu hệ thống
 - **Tài khoản SMTP**: Là tài khoản gửi email đến các tài khoản khác  
-- **N8N**: Phiên bản >=1.66.0
+- [**N8N**](https://n8n.io/): Phiên bản >=1.66.0
 
 ### 2. Cài đặt dữ án
 #### Bước 1: Tải mã nguồn từ bản phát hành
