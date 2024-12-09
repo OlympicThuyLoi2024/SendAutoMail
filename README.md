@@ -16,7 +16,7 @@ Xây dựng gửi email tự động cho hệ thống SafeZone khi có người 
 
 ### 2. Cài đặt dữ án
 #### Bước 1: Tải mã nguồn từ bản phát hành
-1. Truy cập trang phát hành chính thức tại: [Releases](https://github.com/trungthanhcva2206/Service-AutoSendEmail/releases).
+1. Truy cập trang phát hành chính thức tại: [Releases](https://github.com/OlympicThuyLoi2024/SendAutoMail/releases).
 2. Chọn phiên bản phù hợp với nhu cầu của bạn.
 3. Trong phần **Assets**, tải tệp:
    - `Source code (zip)` hoặc
@@ -25,12 +25,12 @@ Xây dựng gửi email tự động cho hệ thống SafeZone khi có người 
 #### Bước 2: Giải nén và truy cập thư mục
 ```bash
 # Giải nén file đã tải
-unzip Service-AutoSendEmail.zip
-cd Service-AutoSendEmail
+unzip SendAutoMail-1.0.zip
+cd SendAutoMail-1.0
 ```
 #### Bước 3: Import vô N8N 
 1. Tạo 1 workflow trong N8N
-2. Import file My-workflow.json, file này lấy được ở trong thư mục Service-AutoSendEmail
+2. Import file My-workflow.json, file này lấy được ở trong thư mục SendAutoMail-1.0
 
 #### Bước 4: Chỉnh sửa các tài khoản dịch vụ
 Ở trong node Send Email sẽ có phần **Credential to connect with**, có thể chỉnh sửa tài khoản SMTP của mình ở đây. 
